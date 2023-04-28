@@ -1,4 +1,14 @@
-# Broscar's mixed dbfz.ron
+This dbfz.ron is outdated, and has been deprecated.
+
+My latest dbfz.ron, and the required fork of bbscript to use it, can be found here: [GitHub - dobosken/bbscript: Parses BBScript for various Arc System Works Games](https://github.com/dobosken/bbscript)
+
+
+
+---
+
+
+
+# Broscar's mixed dbfz.ron for bbscript 0.1
 
 A customized dbfz.ron for use with [Pangaea's bbscript](https://github.com/super-continent/bbscript).
 
